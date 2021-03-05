@@ -100,7 +100,7 @@ class MealDetailScreen extends StatelessWidget {
                   color: Theme.of(context).accentColor,
                 ),
                 label: Text(
-                  "Delete",
+                  "Delete git test",
                   style: TextStyle(
                     color: Theme.of(context).accentColor,
                   ),
